@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
 <h3 align="center">corporate IT student @ Eviden</h3>
 
-<ul>
-  <li>🔭 I’m currently working on [my personal portfolio website](https://github.com/noahimwind/personalportfolio)</li>
-  <li>🌱 I’m currently learning Angular, Flutter and basic HTML, CSS, JavaScript</li>
-  <li>📫 You can reach me @ noah.duerkes@gmail.com</li>
-</ul>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/noah dürkes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noah dürkes" height="30" width="40" /></a>
